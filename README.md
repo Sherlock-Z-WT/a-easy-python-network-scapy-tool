@@ -1,4 +1,4 @@
-First，I want you to know:I am a college student who is 19 years old,and I am learning Python just now.I use 1 week to learn Python,and this is my first Python project. If you are a Python learner,than we can be friends,and I am happy to make friends with some Python learner,and we can talk about this together.I am waiting to your email!My email is in my homepage.
+First，I want you to know:I am a college student who is 19 years old,and I am learning Python just now.I use 1 week to learn Python,and this is my first Python project. If you are a Python learner,than we can be friends,and I am happy to make friends with some Python learner,and we can talk about this together.I am waiting to your email!My email is in my homepage.This scanner is one of my project in python learning.Please waitting and make some views.
 
 LAN IP scanner
 This project provides an efficient multi-threaded LAN IP scanning tool that can quickly detect online devices within a given subnet. Through this tool, you can easily obtain the IP addresses and related latency information of reachable devices in the local area network, facilitating network management and device troubleshooting.
