@@ -1,0 +1,9 @@
+#基于Flask开发RESTful API，实现用户数据查询接口，支持JSON格式响应
+from flask import Flask,jsonify
+app = Flask(__name__)
+@app.route('/api/data')
+def get_data():
+    return jsonify({'name':'jack','age':'19'})
+if __name__ == "__main__":
+    app.run(debug= True)
+
