@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>my website</title>
+    <link rel = 'stylesheet'href="{{url_for('static',filename='style.css')}}">
+</head>
+<body>
+    <h1>welcome to {{name}}'s first website.
+
+        I created it at 2025/3/24.
+
+        And what is the date you see this little website?</h1>
+
+</body>
+</html>
