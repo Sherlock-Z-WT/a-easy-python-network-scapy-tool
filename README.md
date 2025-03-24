@@ -1,2 +1,3 @@
 First，I want you to know:I am a college student who is 19 years old,and I am learning Python just now.I use 1 week to learn Python,and this is my first Python project. If you are a Python learner,than we can be friends,and I am happy to make friends with some Python learner,and we can talk about this together.I am waiting to your email!My email is in my homepage.
-这个库基本上都是一些我个人学习python语言时候的一些记录和随笔，用来记录我的学习过程!
+This library is basically a collection of personal records and essays from my time learning Python language, used to document my learning process!There are many experts and programmers on GitHub. If you have seen my repository, please feel free to provide suggestions and corrections！I really hope you can help me learn Python or other programming languages！And try to Contact me！
+！
